@@ -7,7 +7,7 @@
 人工智能教学实训平台是一个集学习、实践、研究于一体的综合性 AI 生态平台，涵盖**课程中心、数据中心、竞赛中心、工程中心、算力中心、机器视觉工作室、大模型工作室**等核心功能模块，致力于为用户提供从理论到落地的全流程支持。通过丰富的资源库、企业级导师指导及低成本算力服务，平台助力院校、科研机构及 AI 从业者掌握前沿技术，提升实战能力。  
 **[立即体验](https://www.lswai.com)**
 
-<video src="人工智能实训平台.mp4" controls autoplay muted width="600"></video>
+<video src="人工智能实训平台.mp4" controls autoplay muted width="600" height="400" ></video>
 
 ---
 
